@@ -100,3 +100,40 @@ ul li{
 
 	
 }
+
+/*la quinta*/
+
+ul{
+	list-style: none;
+	margin-left: 400px;
+}
+ul li{
+	display: inline-block;
+
+
+}
+
+.unod{
+	padding-bottom: 40px;
+	background:#ffff00;
+	width: 160px;
+	border: 20px;
+	color-border:blue;
+
+}
+
+.dosd{
+	padding-bottom: 40px;
+	background:#ff0066;
+	width: 160px;
+
+
+}
+
+.tresd{
+	padding-bottom: 40px;
+	background:#ffff00;
+	width: 160px;
+
+	
+}
