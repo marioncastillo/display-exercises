@@ -1,0 +1,102 @@
+/*La primera*/
+.uno{
+	padding-bottom: 40px;
+	background:#ffff00;
+}
+
+.dos{
+	padding-bottom: 40px;
+	background:#ff0066;
+}
+
+.tres{
+	padding-bottom: 40px;
+	background:#ffff00;
+}
+
+/*la segunda*/
+#cajitas{
+
+	margin: 0 auto;
+	width: 200px;
+}
+
+.unoa{
+	padding-bottom: 40px;
+	background:#ffff00;
+}
+
+.dosaa{
+	padding-bottom: 40px;
+	background:#ff0066;
+}
+
+.tresa{
+	padding-bottom: 40px;
+	background:#ffff00;
+}
+
+/*la tercera*/
+
+ul{
+	list-style: none;
+	margin-left: 400px;
+}
+ul li{
+	display: inline-block;
+
+
+}
+
+.unob{
+	padding: 10px;
+	background:#ffff00;;
+
+}
+
+.dosb{
+	padding: 10px;
+	background:#ff0066;
+
+}
+
+.tresb{
+	padding: 10px;
+	background:#ffff00;
+	
+}
+
+/*la cuarta*/
+
+ul{
+	list-style: none;
+	margin-left: 400px;
+}
+ul li{
+	display: inline-block;
+
+
+}
+
+.unoc{
+	padding-bottom: 40px;
+	background:#ffff00;
+	width: 160px;
+
+}
+
+.dosc{
+	padding-bottom: 40px;
+	background:#ff0066;
+	width: 160px;
+
+
+}
+
+.tresc{
+	padding-bottom: 40px;
+	background:#ffff00;
+	width: 160px;
+
+	
+}
